@@ -3,7 +3,7 @@ import BanImg from "../assets/banner.png"
 
 const Banner = () => {
   return (
-    <div>
+    <div className='pb-5'>
         <img src={BanImg} alt="" />
     </div>
   )
