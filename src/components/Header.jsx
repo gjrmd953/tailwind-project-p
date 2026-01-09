@@ -5,13 +5,6 @@ import { IoCallOutline } from "react-icons/io5";
 import { FaFacebookF,FaTwitter,FaLinkedinIn,FaInstagram  } from "react-icons/fa";
 
 
-
-
-
-
-
-
-
 const Header = () => {
   return (
     <header className="bg-headerColor py-3">
